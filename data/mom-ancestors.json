@@ -1,0 +1,96 @@
+{
+    "mom-ancestors": [
+      {
+        "name": "Beverly",
+        "lastname": "Garrett",
+        "birthdate": "27 August 1928",
+        "death": "16 February 2021",
+        "id": 1,
+        "birthplace": "Grantsville, Utah, USA",
+        "numofchildren": 6,
+        "type": "female",
+        "imageurl": "images/mom-ancestors/BeverlyGarrett.jpg"
+      },
+      {
+        "name": "John William",
+        "lastname": "Frankland",
+        "birthdate": "8 January 1926",
+        "death": "5 April 1994",
+        "id": 2,
+        "birthplace": "Salt Lake City, Utah, USA",
+        "numofchildren": 6,
+        "type": "male",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "William Harold",
+        "lastname": "Frankland",
+        "birthdate": "1 May 1899",
+        "death": "23 August 1974",
+        "id": 3,
+        "birthplace": "Salt Lake City, Utah, USA",
+        "numofchildren": 3,
+        "type": "male",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "Ruth Evelyn",
+        "lastname": "Monson",
+        "birthdate": "11 August 1902",
+        "death": "1 September 1932",
+        "id": 4,
+        "birthplace": "Pleasant Grove, Utah, USA",
+        "numofchildren": 3,
+        "type": "female",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "Herbert William",
+        "lastname": "Garrett",
+        "birthdate": "26 February 1898",
+        "death": "26 April 1941",
+        "id": 5,
+        "birthplace": "Raunds, Northamptonshire, England",
+        "numofchildren": 8,
+        "type": "male",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "Clara Olivia",
+        "lastname": "Clark",
+        "birthdate": "29 March 1904",
+        "death": "31 July 1982",
+        "id": 6,
+        "birthplace": "Grantsville, Utah, USA",
+        "numofchildren": 8,
+        "type": "female",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "John William",
+        "lastname": "Frankland",
+        "birthdate": "2 July 1864",
+        "death": "15 September 1948",
+        "id": 7,
+        "birthplace": "Yoxford, Suffolk, England",
+        "numofchildren": 5,
+        "type": "male",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      },
+      {
+        "name": "Emily Maria",
+        "lastname": "Dow",
+        "birthdate": "9 September 1863",
+        "death": "19 March 1948",
+        "id": 8,
+        "birthplace": "Portsmouth, Hampshire, England",
+        "numofchildren": 5,
+        "type": "female",
+        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+      }
+      
+
+
+      
+    ]
+  }

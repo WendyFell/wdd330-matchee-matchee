@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.tiles {
+    display: flex;
+    align-items: center;
+}
+.card-back {
+    outline: 1px solid black;
+}
