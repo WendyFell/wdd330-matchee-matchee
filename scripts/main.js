@@ -59,19 +59,24 @@ const displayCard = (picture) => {
     game.innerHTML = pictureHTML;
 }
 
-const clickCard = (event) => {
+function clickCard(event) {
     const pictureCard = event.currentTarget;
     const [front, back] = getFrontAndBackFromCard(pictureCard);
-    
+  
     if (front.classList.contains("rotated") || isPaused) return;
-
-    isPaused = true;
     
+    isPaused = true;
+   
     rotateElements([front, back])
-
+   
     if (!firstPick) {
         firstPick = pictureCard;
         isPaused = false;
+        // Do I need to use localstorage?
+        // let currentNumber = 0;
+        // const numberElement = document.querySelector(".moves");
+        // currentNumber += 1;
+        // numberElement.textContent = currentNumber;
     } else {
         const secondPictureName = pictureCard.dataset.picturename;
         const firstPictureName = firstPick.dataset.picturename;
@@ -93,12 +98,13 @@ const clickCard = (event) => {
     }
 }
 
-const rotateElements = (elements) => {
+
+function rotateElements(elements) {
     if (typeof elements != "object" || !elements.length) return;
     elements.forEach(element => element.classList.toggle("rotated"));
 }
 
-const getFrontAndBackFromCard = (card) => {
+function getFrontAndBackFromCard(card) {
     const front = card.querySelector(".front");
     const back = card.querySelector(".back");
     return [front, back];

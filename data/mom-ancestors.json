@@ -1,95 +1,124 @@
 {
-    "mom-ancestors": [
+    "ancestors": [
       {
         "name": "Beverly",
         "lastname": "Garrett",
         "birthdate": "27 August 1928",
-        "death": "16 February 2021",
-        "id": 1,
         "birthplace": "Grantsville, Utah, USA",
-        "numofchildren": 6,
+        "id": 1,
         "type": "female",
-        "imageurl": "images/mom-ancestors/BeverlyGarrett.jpg"
+        "imageurl": "images/mom-ancestors/beverly-garrett.jpg"
       },
       {
         "name": "John William",
-        "lastname": "Frankland",
+        "lastname": "Frankland III",
         "birthdate": "8 January 1926",
-        "death": "5 April 1994",
-        "id": 2,
         "birthplace": "Salt Lake City, Utah, USA",
-        "numofchildren": 6,
+        "id": 2,
         "type": "male",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/john-william-frankland.jpg"
       },
       {
         "name": "William Harold",
         "lastname": "Frankland",
         "birthdate": "1 May 1899",
-        "death": "23 August 1974",
-        "id": 3,
         "birthplace": "Salt Lake City, Utah, USA",
-        "numofchildren": 3,
+        "id": 3,
         "type": "male",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/william-harold-frankland.jpg"
       },
       {
         "name": "Ruth Evelyn",
         "lastname": "Monson",
         "birthdate": "11 August 1902",
-        "death": "1 September 1932",
-        "id": 4,
         "birthplace": "Pleasant Grove, Utah, USA",
-        "numofchildren": 3,
+        "id": 4,
         "type": "female",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/ruth-evelyn-monson.jpg"
       },
       {
         "name": "Herbert William",
         "lastname": "Garrett",
         "birthdate": "26 February 1898",
-        "death": "26 April 1941",
-        "id": 5,
         "birthplace": "Raunds, Northamptonshire, England",
-        "numofchildren": 8,
+        "id": 5,
         "type": "male",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/herbert-william-garrett.jpg"
       },
       {
         "name": "Clara Olivia",
         "lastname": "Clark",
         "birthdate": "29 March 1904",
-        "death": "31 July 1982",
-        "id": 6,
         "birthplace": "Grantsville, Utah, USA",
-        "numofchildren": 8,
+        "id": 6,
         "type": "female",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/clara-olivia-clark.jpg"
       },
       {
         "name": "John William",
-        "lastname": "Frankland",
-        "birthdate": "2 July 1864",
-        "death": "15 September 1948",
-        "id": 7,
+        "lastname": "Frankland II",
+        "birthdate": "24 July 1864",
         "birthplace": "Yoxford, Suffolk, England",
-        "numofchildren": 5,
+        "id": 7,
         "type": "male",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/john-william-frankland-2.jpg"
       },
       {
         "name": "Emily Maria",
         "lastname": "Dow",
         "birthdate": "9 September 1863",
-        "death": "19 March 1948",
-        "id": 8,
         "birthplace": "Portsmouth, Hampshire, England",
-        "numofchildren": 5,
+        "id": 8,
         "type": "female",
-        "imageurl": "https://media.ldscdn.org/images/media-library/gospel-art/latter-day-prophets/american-prophet-joseph-smith-jr-1178035-gallery.jpg"
+        "imageurl": "images/mom-ancestors/emily-marie-dow.jpg"
+      },
+      {
+        "name": "Olaf",
+        "lastname": "Monson",
+        "birthdate": "6 April 1857",
+        "birthplace": "Olserod, Kristianstad, Sweden",
+        "id": 9,
+        "type": "male",
+        "imageurl": "images/mom-ancestors/olaf-monson.jpg"
+      },
+      {
+        "name": "Alfrida Anna Charlotta",
+        "lastname": "Gardelius",
+        "birthdate": "12 January 1874",
+        "birthplace": "Portsmouth, Hampshire, England",
+        "id": 10,
+        "type": "female",
+        "imageurl": "images/mom-ancestors/alfrida-anna-charlotta-gardelius.jpg"
+      },
+      {
+        "name": "James E",
+        "lastname": "Garrett",
+        "birthdate": "12 January 1866",
+        "birthplace": "Earls Barton, Northhamptonshire, England",
+        "id": 11,
+        "type": "male",
+        "imageurl": "images/mom-ancestors/james-e-garrett.jpg"
+      },
+      
+      {
+        "name": "James Edmund",
+        "lastname": "Clark",
+        "birthdate": "22 January 1871",
+        "birthplace": "Grantsville, Utah, USA",
+        "id": 12,
+        "type": "male",
+        "imageurl": "images/mom-ancestors/james-edmund-clark.jpg"
+      },
+      {
+        "name": "Annie Josephine",
+        "lastname": "Johnson",
+        "birthdate": "3 August 1872",
+        "birthplace": "Grantsville, Utah, USA",
+        "id": 13,
+        "type": "female",
+        "imageurl": "images/mom-ancestors/annie-josephine-johnson.jpg"
       }
       
-
 
       
     ]
