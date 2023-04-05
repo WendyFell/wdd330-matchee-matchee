@@ -12,7 +12,7 @@ const display = document.querySelector("article");
 // 	display.classList.remove("dirGrid");
 // });
 
-const requestURL = "https://wendyfell.github.io/wdd330-matcheematchee/data/mom-ancestors.json";
+const requestURL = "https://wendyfell.github.io/wdd330-matchee-matchee/data/mom-ancestors.json";
 const cards = document.querySelector(".cards");
 
 async function getData() {
