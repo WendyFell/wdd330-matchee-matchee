@@ -37,18 +37,15 @@ function displayBusinesses(ancestor) {
 	let card = document.createElement("section");
 	let h3 = document.createElement("h3");
 	let p1 = document.createElement("p");
-	
-				
+					
 	h3.textContent = ancestor.name;
 	p1.textContent = ancestor.lastname;
-		
-	
+			
 	icon.setAttribute("src", ancestor.imageurl)
 	icon.setAttribute("alt", `${ancestor.name}'s icon`)
 			
 	card.appendChild(icon);
 	card.appendChild(h3);
-	
-		
+			
 	document.querySelector("article.cards").appendChild(card);
 };

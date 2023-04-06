@@ -58,3 +58,23 @@ header {
     position: relative;
     z-index: 1;
 }
+
+.reset {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 10px rgba(200, 200, 200, 0.5);
+    border-radius: 10px;
+    background-color: rgb(16, 202, 88);
+
+}
+
+.win {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 10px rgba(200, 200, 200, 0.5);
+    border-radius: 10px;
+    background-color: rgb(16, 202, 88);
+}
